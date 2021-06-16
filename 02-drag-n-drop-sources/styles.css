@@ -68,6 +68,9 @@ body {
    width: 200px;
    padding-top: 15%;
    background: linear-gradient(90deg, #ffca85 0%, #22fd6b 179.25%);
+   color: royalblue;
+   text-transform: uppercase;
+   
 }
 
 .hide{
@@ -75,5 +78,6 @@ body {
 }
 
 .hovered{
-   border-top: 5px solid #9c8eed;
+   border-top: 5px dotted rgb(255, 187, 0);
+  
 }
